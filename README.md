@@ -8,7 +8,7 @@
 
 ## 📖 Overview
 
-A convolutional neural network implementation that achieves **99%+ accuracy** on the classic MNIST handwritten digit classification task. The model uses a simple yet effective CNN architecture with dropout regularization to prevent overfitting.
+A convolutional neural network implementation that achieves **99%+ accuracy** on the classic MNIST handwritten digit classification task. The model uses a simple yet effective CNN architecture with dropout regularization and **Early Stopping** to optimize training efficiency and prevent overfitting.
 
 ## 🎯 Performance
 
